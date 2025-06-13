@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------------------
+Name                    DOB                  Shirt No        Average       Total runs
+-------------------------------------------------------------------------------------------
+Hassan Ali               July 2, 1994             32             15.60         312
+Shadab Khan            October 4, 1998     29             25.53         383
+Babar Azam             October 15, 1994    56             56.83         3808
+Shaheen Afridi         April 6, 2000         40             14.25         57
+Asif Ali                      October 1, 1991      45             25.46         382
+Sohaib Maqsood        April 15, 1987       92             31.95         735
+Faheem Ashraf         January 16, 1994     41             38.07         495
+Mohammad Hafeez     October 17, 1980    8              32.90         6614
+Sarfaraz Ahmed         May 22, 1987         54             33.50         2316
+Fakhar Zaman           April 10, 1990         39             49.17         2262
+Iman-ul-haq            December 22, 1995  26             51.70         1966

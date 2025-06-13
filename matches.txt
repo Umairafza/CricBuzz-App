@@ -1,0 +1,27 @@
+Upcoming Matches
+****************
+
+----------------------------------------------------------------------------------------------------------------------------------
+Team1        Team2    Date                Venue      Match Type  Tournament Name   Commentators     	Umpires   Audience Status
+----------------------------------------------------------------------------------------------------------------------------------
+Pakistan     India    September 23,2021   Dubai      T20         WC                3                     3        Allowed
+Newzland     India    December 12,2021    Dublin     ODI         WC                2                     4        Not_allowed
+Bangladesh   Srilanka August 2,2021       Dubai      T20         WC                4                     2        Not_allowed
+Afganistan   Pakistan October 10,2021     Dubai      Test        WC                2                     5        Allowed
+Australia    England  November 3,2021     Dubai      ODI         WC                5                     3        Allowed
+
+
+
+
+
+Recent Matches
+**************
+
+----------------------------------------------------------------------------------------------------------------------------------
+Team1        Team2       Date                Venue      Match Type  Tournament Name   Commentators    	Umpires   Audience_Status
+----------------------------------------------------------------------------------------------------------------------------------
+Pakistan     Australia  Janurary 20,2020    London       Test        WC                2                  2       Not_Allowed
+England      India      Feburary 3,2019     Dubai        T20         WC                4                  3       allowed
+Africa       Pakistan   April 12,2020       Lahore       Test        WC                3                  4       Not_allowed
+Afganistan   srilanka   October 23,2018     karachi      ODI         WC                6                  2       Not_allowed
+Australia    India      December 7,2020     Dubai        Test        WC                3                  5       Allowed

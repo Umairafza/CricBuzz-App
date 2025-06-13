@@ -1,0 +1,18 @@
+                                        
+                                        *********************
+                                            Cricket teams
+                                        *********************
+-------         -----------      ------------     ----------     -------                  -----
+Country         Matches Won      Matches lost     ODI WC won     Caption                  Coach
+-------         -----------      ------------     ----------     -------                  ----- 
+Pakistan     |   736          |   608           |   1          |  Babar Azam           |    Misbah-ul-Haq
+India        |   766          |   644           |   2          |  Virat Kohli          |    Ravi Shastri
+England      |   824          |   706           |   1          |  Joe Roo              |    Chris Silverwood 
+Australia    |   1044         |   619           |   5          |  Aaron Finch          |    Justin Langer    
+Newzealand   |   532          |   611           |   0          |  Kane Williamson      |    Gary Stead 
+Srilanka     |   543          |   606           |   1          |  kusal perera         |    Mickey Arthur
+Bangladesh   |    179         |   402           |   1          |  Tamim Iqbal          |    Russell Domingo
+Afganistan   |    123         |   91            |   0          |  Hashmatullah Shahidi |    Lance Klusener
+West inidies |   637          |   650           |   2          |  Kieron Pollard       |    Phil Simmons
+South Africa |   627          |   427           |   0          |  Quinton de Kock      |    Mark Boucher
+

@@ -1,0 +1,199 @@
+                    ****************Players**************
+
+                                  Team Pakistan
+                                  ______________
+
+-------------------------------------------------------------------------------------
+Name                    DOB                  shirt No        Average       Total runs
+-------------------------------------------------------------------------------------
+Mohammad Hafeez  |      October 17, 1980   |   8         |     32.90    |     6614
+Sarfaraz Ahmed   |      May 22, 1987       |   54        |     33.50    |     2316
+Fakhar Zaman     |      April 10, 1990     |   39        |     49.17    |     2262
+Babar Azam       |      October 15, 1994   |   56        |     56.83    |     3808
+Iman-ul-haq      |      December 22, 1995  |   26        |     51.70    |     1966
+Hassan Ali       |      July 2, 1994       |   32        |     15.60    |     312
+Shadab Khan      |      October 4, 1998    |   29        |     25.53    |     383
+Shaheen Afridi   |      April 6, 2000      |   40        |     14.25    |     57
+Asif Ali         |      October 1, 1991    |   45        |     25.46    |     382
+Sohaib Maqsood   |      April 15, 1987     |   92        |     31.95    |     735
+Faheem Ashraf    |      January 16, 1994   |   41        |     38.07    |     495
+ 
+
+
+                                      Team England
+                                      _____________
+
+-------------------------------------------------------------------------------------
+Name                    DOB                  shirt No         Average       Total runs
+-------------------------------------------------------------------------------------
+James Anderson    |     December 17, 1990  |    2         |     12.90    |     6314
+Eoln Morgan       |     june 13, 1989      |    5         |     54.20    |     2224
+chris Woakes      |     October 31, 1980   |    12        |     23.43    |     4232
+Adil Rashid       |     May 12, 1985       |    30        |     43.34    |     3421
+Jos Buttler       |     Janurary 1, 1999   |    3         |     54.56    |     5435
+Joe Root          |     Febraruy 20, 1991  |    4         |     46.43    |     6140
+Ben Stokes        |     March 3, 1986      |    6         |     21.67    |     2321
+Jonny Bairstow    |     April 17, 1980     |    9         |     32.90    |     6614
+Chris Jordon      |     October 27, 1992   |    7         |     56.46    |     231
+Jason Roy         |     May 1, 1985        |    10        |     87.46    |     3123
+Moeen Ali         |     June 7, 1998       |    15        |     54.64    |     123
+
+
+
+                                         Team India
+                                         ___________
+
+---------------------------------------------------------------------------------------
+Name                     DOB                   shirt No         Average       Total runs
+---------------------------------------------------------------------------------------
+Shikhar Dhawan      |    May 21, 1990        |   16        |      53.34    |     424
+Ravindra Jadeja     |    June 15, 1990       |   18        |      45.34    |     3243
+Rohlt Sharma        |    October 7, 1990     |   22        |      12.45    |     7314
+Virat Kohli         |    July  1, 1990       |   32        |      23.65    |     6755
+Manish Pandey       |    March 12, 1990      |   67        |      78.67    |     7654
+Bhuvneshwar Kumar   |    Febraruy 17, 1990   |   65        |      67.56    |     754
+Umesh Yadav         |    July 22, 1990       |   76        |      23.45    |     9876
+Yuzendra Chahal     |    April 11, 1990      |   60        |      43.45    |     567
+Mohammed Shami      |    Janurary 15, 1990   |   56        |      74.45    |     7654
+Jasprit Bumrah      |    October 24, 1990    |   89        |      64.34    |     3453
+KL Rahul            |    December 22, 1990   |   90        |      34.56    |     633
+
+
+
+                                       Team Australia
+                                       _______________
+
+-------------------------------------------------------------------------------------
+Name                    DOB                  shirt No       Average       Total runs
+-------------------------------------------------------------------------------------
+Aaron Finch        |     April 1, 1990       |   53      |     56.65    |    5644
+Josh Hazelwood     |     May 23, 1990        |   66      |     87.67    |    574
+David Warner       |     March 12, 1990      |   76      |     23.45    |    4645
+Kane Richardson    |     Janurary 26, 1990   |   87      |     54.35    |    8764
+Mitcheli starc     |     April 30, 1990      |   56      |     75.56    |    2342
+Gienn Maxwell      |     October 21, 1990    |   97      |     34.56    |    422
+Mitchell Marsh     |     June 15, 1990       |   23      |     96.45    |    3132
+Pat Cummins        |     July 5, 1990        |   63      |     33.45    |    3444
+Adam Zampa         |     September 6, 1990   |   34      |     23.34    |    8765
+Alex carey         |     December 10, 1990   |   78      |     54.34    |    544
+Nathan Lyon        |     August 21, 1990     |   98      |     56.21    |    864
+
+
+
+                                      Team Bangladesh
+                                      ________________
+
+-------------------------------------------------------------------------------------
+Name                     DOB                  shirt N0       Average       Total runs
+-------------------------------------------------------------------------------------
+Mashrafe Mortaza   |     March 13, 1990      |   32       |    44.46     |    8756
+Shakib Al Hasan    |     August 15, 1990     |   23       |    54.56     |    6543
+Tamim Iqbal        |     April 17, 1990      |   54       |    87.65     |    5643
+Mahmudullah        |     December 15, 1990   |   45       |    56.34     |    8656            
+Rubel hossain      |     July 1, 1990        |   65       |    21.35     |    968
+Al-Amin Hossain    |     october 15, 1990    |   56       |    24.54     |    2334
+Mohammad Mithun    |     April 14, 1990      |   87       |    78.65     |    1132
+Mosadeek Hossain   |     August 12, 1990     |   79       |    65.98     |    5463
+Soumya Sarkar      |     June 13, 1990       |   67       |    34.97     |    876
+Taskin Ahmed       |     October 23, 1990    |   76       |    21.55     |    3422
+Soumya Sarkar      |     August 22, 1990     |   45       |    12.87     |    123
+
+
+
+                                     Team New zealand
+                                     _________________
+
+-------------------------------------------------------------------------------------
+Name                    DOB                  shirt N0       Average       Total runs
+-------------------------------------------------------------------------------------
+Ross Taylor         |   April 1, 1990      |    23      |    34.42     |    6733
+Tim southee         |   March 1, 1990      |    43      |    45.54     |    3456
+Kane Williamson     |   Janurary 1, 1990   |    56      |    57.45     |    7654
+Trent Boult         |   Feburary 1, 1990   |    63      |    64.45     |    6542
+Martin Guptill      |   May 1, 1990        |    57      |    32.34     |    1234
+Tom Latham          |   March 1, 1990      |    78      |    64.23     |    4325
+James Neesham       |   April 1, 1990      |    87      |    87.54     |    2345
+Colin de Grandhomme |   August 1, 1990     |    46      |    98.65     |    3245
+Ish Sodhi           |   December 1, 1990   |    22      |    34.65     |    453
+Henry Nicholls      |   June 1, 1990       |    43      |    23.45     |    2341
+Lockie Ferguson     |   July 1, 1990       |    35      |    45.34     |    3413
+
+
+
+                                      Team south Africa
+                                      __________________
+
+---------------------------------------------------------------------------------------
+Name                      DOB                   shirt N0       Average       Total runs
+---------------------------------------------------------------------------------------
+David Miller           |  Janurary 12, 1990    |   34      |    34.42     |    656
+Dean Elgar             |  April 21, 1990       |   56      |    23.43     |    3242
+Rassie Van Der Dussen  |  August 16, 1990      |   75      |    12.54     |    4324
+Quinton de kock        |  October 14, 1990     |   76      |    34.32     |    2342
+Faf du piessis         |  May 19, 1990         |   87      |    24.23     |    5464
+Tabraiz Shamsi         |  September 12, 1990   |   78      |    12.24     |    8764
+Keshav Mahraj          |  Feburary 13, 1990    |   22      |    34.54     |    3345
+Janneman Malan         |  June 23, 1990        |   91      |    14.23     |    245
+Aiden Markram          |  July 26, 1990        |   62      |    56.54     |    6542
+Lungi Ngidi            |  December  12, 1990   |   53      |    78.65     |    743
+Kagiso Rabada          |  April 22, 1990       |   71      |    54.43     |    4522
+
+
+
+                                           Team Srilanka
+                                           ______________
+
+----------------------------------------------------------------------------------------
+Name                      DOB                 shirt No       Average       Total runs
+----------------------------------------------------------------------------------------
+Lasith Malinga        |   May 13, 1985       |  68       |     44.54    |      1340
+Dilruwan perera       |   April 11, 1989     |  69       |     54.65    |      1640
+Dinesh Chandimai      |   Februry 17, 1987   |  70       |     15.75    |      1840
+Thisara Perera        |   June 19, 1994      |  71       |     23.85    |      1930
+Lahiru Thirimanne     |   October 3, 1995    |  72       |     26.5     |      5400
+angelo Mathews        |   August 7, 1996     |  73       |     67.54    |      4340
+Suranga Lakmal        |   April 4, 1992      |  74       |     45.56    |      4200
+Isuru Udana           |   May 16, 1998       |  75       |     43.65    |      4150
+Dimuth Karunaratne    |   July 23, 1999      |  76       |     45.45    |     3600
+Kusal perera          |   April 25, 1995     |  77       |     25.35    |      3940
+Nuwan Pradeep         |   September 30, 1996 |  62       |     30.58    |      5420
+
+
+
+Team West Indies
+_________________
+
+---------------------------------------------------------------------------------------
+Name                      DOB                  shirt No        Average       Total runs
+---------------------------------------------------------------------------------------
+Dwayne Bravo         |    April 15, 1992     |   78       |     65.45    |    4500
+Lendi Simmons        |    May 23, 1993       |   79       |     34.66    |    3450
+Kieron Pollard       |    June 25, 1994      |   80       |     25.75    |    3490
+Darren Bravo         |    July 3, 1998       |   81       |     54.68    |    1230
+Kieran Powell        |    August 13, 1989    |   82       |     19.25    |    4200
+Kemar Roach          |    January 25, 1988   |   83       |     28.67    |    2390
+Andre Fietcher       |    July 27, 1992      |   84       |     34.75    |    5060
+Kraigg brathwalte    |    October 31, 1997   |   85       |     44.45    |    3840
+Jason holder         |    April 26, 1995     |   86       |     45.25    |    3230
+Andre Russell        |    December 16, 1998  |   87       |     38.75    |    2550
+Evin Lewis           |    June 18, 1999      |   61       |     18.95    |    1344
+
+
+
+Team Afghanistan
+_________________
+
+------------------------------------------------------------------------------------
+Name                      DOB                 shirt No       Average       Total runs
+------------------------------------------------------------------------------------
+Mohammad Nabi         |   March 5, 1992      |  89       |     52.56    |    5544
+Shapoor Zadran        |   April 3, 1995      |  88       |     54.65    |    3444
+Samiullah Shinwari    |   June 7, 1993       |  90       |     19.15    |    544
+Dawlat Zadran         |   October 14, 1997   |  91       |     23.75    |    1244
+Gulbadin Naib         |   July 18, 1995      |  92       |     33.76    |    2234
+Afsar Zazai           |   April 3, 1899      |  93       |     49.5     |    4450
+Hashmatullah Shahidi  |   May 19, 1999       |  94       |     15.65    |    1344
+Rahmat Shah           |   April 18, 1982     |  95       |     45.5     |    4544
+Usman Ghani           |   October 29, 1989   |  96       |     55.5     |    5444
+Ihsanullah            |   July 31, 1992      |  97       |     18.5     |    344
+Rashid khan           |   December 23, 1993  |  98       |     23.5     |    944

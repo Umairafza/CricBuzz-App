@@ -1,0 +1,11 @@
+Recent Matches
+**************
+
+----------------------------------------------------------------------------------------------------------------------------------
+Team1        Team2       Date                Venue      Match Type   Winning Status  			 Audience_Status
+----------------------------------------------------------------------------------------------------------------------------------
+Pakistan     Australia  Janurary 20,2020    Ahmedabad    Test        Pakistan won by 7 wickets     	 Not_Allowed
+England      India      Feburary 3,2019     Dubai        T20         India won by 17 runs         	allowed
+Africa       Pakistan   April 12,2020       Lahore       Test        Match tied        			Not_allowed
+Afganistan   srilanka   October 23,2018     karachi      ODI         Delayed by rain                    Not_allowed
+Australia    India      December 7,2020     Dubai        Test        Australia won by 4 wickets         Allowed
