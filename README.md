@@ -1,3 +1,11 @@
+![image](https://github.com/user-attachments/assets/f5108c8f-e798-4f4c-ae05-81b45e4dbd4a)
+![image](https://github.com/user-attachments/assets/3a55e930-a23c-4872-a1cb-5b8da36301d3)
+![image](https://github.com/user-attachments/assets/5dcdadb3-1c53-4637-9561-e6f298f60efd)
+![image](https://github.com/user-attachments/assets/86a933a4-22c6-45d3-9db7-7cb32a443b5d)
+![image](https://github.com/user-attachments/assets/f1b344ef-0229-4918-80fd-4e008b673c2e)
+
+
+
 CricBuzz - Cricket Management System
 CricBuzz is a comprehensive cricket management system developed as a semester project for the Object-Oriented Programming course at the National University of Computer and Emerging Sciences (FAST-NUCES) in Fall 2022. This C++ application simulates a cricket information platform, allowing users to manage teams, players, matches, and news, with an interactive console interface and a graphical user interface (GUI) built using the SFML library.
 Features
